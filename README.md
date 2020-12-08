@@ -16,4 +16,6 @@ Le résultat est sous forme de gif et s'enregistre quand on exécute la fonction
 
 ### Axes d'amélioration
 Ayant conscience que notre projet est améliorable, voici les axes principaux d'amélioration auxquels nous avons pensé, et que nous pourrions mettre en place dans un second temps :  
-- j
+- quand une transition n'est plus possible, mettre sa probabilité à 0
+- simuler une nouvelle grille si aucune transition n'est possible dès le début 
+- quand plus aucune transition n'est possible, stopper le programme et afficher un message
