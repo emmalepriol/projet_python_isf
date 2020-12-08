@@ -21,3 +21,4 @@ Ayant conscience que notre projet est améliorable, voici les axes principaux d'
 - quand plus aucune transition n'est possible, stopper le programme et afficher un message
 - afficher un message d'erreur quand une couleur n'est pas prise en charge 
 - faire en sorte de pouvoir afficher une grille de n'importe quelle taille (bugs pour certaines dimensions, ex : 101)
+- simplification des fonctions et du code de manière générale 
